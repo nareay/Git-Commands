@@ -1,0 +1,17 @@
+<table><tr bgColor='#f4ed7c'><td>Theatre Name: </td><td><b>Bala Picture House</b></td><td>Screen: </td><td><b>All</b></td><td>From: </td><td><b>01 Jan 2020</b></td><td>To: </td><td><b>31 Jan 2020</b></td></tr></table><b> BoxOffice Summary - Movie wise </b><table rules="all" border="1">
+	<tr>
+		<th scope="col">Movie Name</th><th scope="col">Movie Language</th><th scope="col">Total No. Of Free Admits</th><th scope="col">Total No. Of Paid Admits</th><th scope="col">No. Of Regular Seats Sold</th><th scope="col">No. Of Defence Seats Sold</th><th scope="col">No. Of Complimentary Seats Sold</th><th scope="col">Total Seats Sold</th><th scope="col">Gross Revenue</th><th scope="col">Local Body Tax Payable</th><th scope="col">CGST %</th><th scope="col">CGST</th><th scope="col">SGST %</th><th scope="col">SGST</th><th scope="col">Maintenance Charge</th><th scope="col">Additional Tax</th><th scope="col">Flood Cess</th><th scope="col">Net Revenue</th>
+	</tr><tr>
+		<td>Billa II</td><td>Tamil</td><td>0</td><td>14</td><td>14</td><td>0</td><td>0</td><td>14</td><td>1680.00</td><td>112.00</td><td>7.00</td><td>103.18</td><td>7.00</td><td>103.18</td><td>28.00</td><td>14.00</td><td>28.00</td><td>1291.64</td>
+	</tr><tr>
+		<td>Billa II</td><td>Tamil</td><td>1</td><td>9</td><td>10</td><td>0</td><td>0</td><td>10</td><td>1800.00</td><td>0.00</td><td>14.00</td><td>196.83</td><td>14.00</td><td>196.83</td><td>27.09</td><td>0.00</td><td>0.00</td><td>1379.25</td>
+	</tr><tr>
+		<td>Kavan</td><td>Tamil</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>2</td><td>240.00</td><td>16.00</td><td>7.00</td><td>14.74</td><td>7.00</td><td>14.74</td><td>4.00</td><td>2.00</td><td>4.00</td><td>184.52</td>
+	</tr><tr>
+		<td>Kavan</td><td>Tamil</td><td>0</td><td>8</td><td>8</td><td>0</td><td>0</td><td>8</td><td>1400.00</td><td>0.00</td><td>14.00</td><td>150.52</td><td>14.00</td><td>150.52</td><td>24.00</td><td>0.00</td><td>0.00</td><td>1074.96</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>Total</td><td>1</td><td>33</td><td>34</td><td>0</td><td>0</td><td>34</td><td>5120.00</td><td>128.00</td><td>&nbsp;</td><td>465.27</td><td>&nbsp;</td><td>465.27</td><td>83.09</td><td>16.00</td><td>32.00</td><td>3930.37</td>
+	</tr>
+</table><pre></pre>
