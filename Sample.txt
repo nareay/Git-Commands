@@ -1,6 +1,0 @@
-First test notepad file which is uploaded using Git commands.
-
-Thanks for watching!
-
-Test file.
-Updated.
