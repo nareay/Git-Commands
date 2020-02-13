@@ -1,0 +1,3 @@
+This is sample file created for Pull purpose from the master branch to local.
+Thats it.
+Today 13th Feb 2020
